@@ -1,4 +1,4 @@
-![logo](https://github.com/sawancode/sawancode/blob/main/Untitled%20design.png)
+![logo](https://github.com/sawancode/sawancode/blob/main/sawan%20design.png)
 <h1 align="center">Hi 👋, I'm Sawan Solanki</h1>
 <h3 align="center">A passionate website developer from India</h3>
 
