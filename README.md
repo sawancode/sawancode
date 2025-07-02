@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Bootstrap**
 
-- 📫 How to reach me **sawansolanki121213@gmail.com**
+- 📫 How to reach me **sawancode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
