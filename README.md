@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Tailwind CSS, React.js, Express.js, Node.js, MongoDB, React-Router, Redux, Redux-Toolkit, API, Java, and DSA**
 
-- 📫 How to reach me **sawancode@gmail.com**
+- 📫 How to reach me **sawancode@gmail.com** and **6264448159**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
