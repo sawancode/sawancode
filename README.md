@@ -1,5 +1,5 @@
 ![logo](https://github.com/sawancode/sawancode/blob/main/png)
-<h1 align="center">Hi 👋, I'm Sawan Solanki</h1>
+<h1 align="center">Hi 👋, I'm Sawan Singh Solanki</h1>
 <h3 align="center">Full Stack MERN Developer | Proficient in React.js, Node.js, MongoDB, Express.js | Skilled in Core Java, DSA, Redux Toolkit, Chakra UI, Clerk | Passionate Problem Solver | Builds Scalable Web Apps with Clean Code | Ready to Drive Frontend & Backend.
 </h3>
 
