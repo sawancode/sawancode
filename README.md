@@ -1,6 +1,6 @@
 ![logo](https://github.com/sawancode/sawancode/blob/main/png)
 <h1 align="center">Hi 👋, I'm Sawan Singh Solanki</h1>
-<h3 align="center">Full Stack MERN Developer | Proficient in React.js, Node.js, MongoDB, Express.js | Skilled in Core Java, DSA, Redux Toolkit, Chakra UI, Clerk | Passionate Problem Solver | Builds Scalable Web Apps with Clean Code | Ready to Drive Frontend & Backend.
+<h3 align="center">Full Stack MERN Developer | Proficient in React.js, Node.js, MongoDB, Express.js | Skilled in Core Java, DSA, Redux Toolkit, Chakra UI, Clerk | Passionate Problem Solver | Builds Scalable Web Apps with Clean Code | Ready to Drive Frontend & Backend Both.
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
