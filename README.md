@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sawan Solanki</h1>
 
 <h3 align="center">
-🚀 Full Stack MERN & Next.js Developer  
+🚀 Full Stack MERN & Next.js Developer 
 <br/>
 💻 React • Next.js • Node.js • MongoDB • Express  
 <br/>
@@ -55,20 +55,14 @@ With a strong foundation in **Core Java, C, and Data Structures & Algorithms (DS
 
 ---
 
-## 📈 GitHub Activity & Stats (Fixed & Stable)
-
-## 📈 GitHub Activity & Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawancode&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165" />
+  <img src="https://ghchart.rshah.org/409ba5/sawancode" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sawancode&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawancode&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sawancode&theme=darkhub&no-frame=true" />
 </p>
 
 ---
