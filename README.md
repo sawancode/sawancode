@@ -57,13 +57,18 @@ With a strong foundation in **Core Java, C, and Data Structures & Algorithms (DS
 
 ## 📈 GitHub Activity & Stats (Fixed & Stable)
 
+## 📈 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sawancode&show_icons=true&theme=react&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sawancode&theme=react&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sawancode&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawancode&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sawancode&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawancode&layout=compact&theme=tokyonight" />
 </p>
 
 ---
