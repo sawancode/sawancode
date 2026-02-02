@@ -4,7 +4,7 @@
 <h3 align="center">
 🚀 Full Stack MERN and Next.js Developer  
 <br/>
-💻 React • Next.js • Node.js • MongoDB • Express  
+💻 React • Next.js • Node.js • MongoDB • Express.js
 <br/>
 🧠 Core Java | DSA | Redux Toolkit | Clean Architecture
 </h3>
