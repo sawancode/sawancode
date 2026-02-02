@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sawan Solanki</h1>
 
 <h3 align="center">
-🚀 Full Stack MERN and Next.js Developer 
+🚀 Full Stack MERN and Next.js Developer  
 <br/>
 💻 React • Next.js • Node.js • MongoDB • Express  
 <br/>
